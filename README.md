@@ -34,7 +34,7 @@ El problema de este paquete de Standard Assets es que tiene algunos problemas co
 
 Descargar el siguiente parche:
 
-- [Descargar parche](./recursos/StandardAssetsFix.unitypackage)
+- [Descargar parche](https://github.com/ulima-pv/taller_introduccion_prog_videojuegos/raw/master/recursos/StandardAssetsFix.unitypackage)
 
 Dentro de Unity, ir a la opción de menú "Assets->Import Package->Custom Package..."  que le abrirá una ventana de selección de archivo. Busque y seleccione el archivo parche que descargó en el punto anterior.
 
